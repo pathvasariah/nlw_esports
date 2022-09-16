@@ -2,10 +2,15 @@
 
 ![preview](./.github/preview.png)
 
- > Projeto feito no Next Level Week da Rocketseat
+ >Trilha Explorer
+
+    Projeto feito do evento Next Level Week da Rocketseat
+
+ [🔗Clique aqui para acessar](https://pathvasariah.github.io/nlw_esports/)
 
 ## ⚙️ Tecnologias
     - CSS
     - HTML
     - Git e Github
+
 
